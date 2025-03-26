@@ -1,1 +1,1 @@
-# akh-autoclicker uses Auto Hot Keyso make sure its installed
+# akh-autoclicker uses Auto Hot Key so make sure its installed
